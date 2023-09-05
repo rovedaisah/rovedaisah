@@ -1,16 +1,15 @@
-### Hi there 👋
+### Greetings Earthlings  🖖
 
-<!--
-**rovedaisah/rovedaisah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Isamara Roveda Lermen
+ 
+- I'm studying at [Alura](https://www.alura.com.br)
+- I'm developing myself in the JavaScript language
+- I use this space for my organization and sharing of projects developed.
 
-Here are some ideas to get you started:
+### How can you contact me 📫 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+isamara.lermen@escola.pr.gov.br
+
+isamararoveda@gmail.com
+
+![](https://media.tenor.com/d5sV85eb_Y0AAAAC/sandman-netflix-dream-sandman.gif) 
